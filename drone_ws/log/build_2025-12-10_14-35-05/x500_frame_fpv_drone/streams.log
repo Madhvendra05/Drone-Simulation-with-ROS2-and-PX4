@@ -1,0 +1,35 @@
+[0.012s] Invoking command in '/home/shiv/drone_ws/build/x500_frame_fpv_drone': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shiv/ws_moveit2/install/moveit_configs_utils:/home/shiv/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/shiv/drone_ws/build/x500_frame_fpv_drone -- -j12 -l12
+[0.060s] Invoked command in '/home/shiv/drone_ws/build/x500_frame_fpv_drone' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shiv/ws_moveit2/install/moveit_configs_utils:/home/shiv/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/shiv/drone_ws/build/x500_frame_fpv_drone -- -j12 -l12
+[0.075s] Invoking command in '/home/shiv/drone_ws/build/x500_frame_fpv_drone': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shiv/ws_moveit2/install/moveit_configs_utils:/home/shiv/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/shiv/drone_ws/build/x500_frame_fpv_drone
+[0.083s] -- Install configuration: ""
+[0.083s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/launch
+[0.083s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/launch/display.launch.py
+[0.083s] -- Installing: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/launch/px4_gz.launch.py
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/launch/gazebo.launch.py
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/meshes
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/meshes/prop_link_1.STL
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/meshes/prop_link_3.STL
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/meshes/base_link.STL
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/meshes/prop_link_4.STL
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/meshes/prop_link_2.STL
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/urdf
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/urdf/x500_frame_fpv_drone.urdf.xacro
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/models
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/models/x500_frame_fpv_drone.sdf
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/models/model.config
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/ament_index/resource_index/package_run_dependencies/x500_frame_fpv_drone
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/ament_index/resource_index/parent_prefix_path/x500_frame_fpv_drone
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/environment/ament_prefix_path.sh
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/environment/ament_prefix_path.dsv
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/environment/path.sh
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/environment/path.dsv
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/local_setup.bash
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/local_setup.sh
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/local_setup.zsh
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/local_setup.dsv
+[0.084s] -- Installing: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/package.dsv
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/ament_index/resource_index/packages/x500_frame_fpv_drone
+[0.084s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/cmake/x500_frame_fpv_droneConfig.cmake
+[0.085s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/cmake/x500_frame_fpv_droneConfig-version.cmake
+[0.085s] -- Up-to-date: /home/shiv/drone_ws/install/x500_frame_fpv_drone/share/x500_frame_fpv_drone/package.xml
+[0.085s] Invoked command in '/home/shiv/drone_ws/build/x500_frame_fpv_drone' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shiv/ws_moveit2/install/moveit_configs_utils:/home/shiv/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/shiv/drone_ws/build/x500_frame_fpv_drone

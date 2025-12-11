@@ -1,0 +1,9 @@
+/home/shiv/drone_ws/build/x500_frame_fpv_drone/CMakeFiles/uninstall.dir
+/home/shiv/drone_ws/build/x500_frame_fpv_drone/CMakeFiles/x500_frame_fpv_drone_uninstall.dir
+/home/shiv/drone_ws/build/x500_frame_fpv_drone/CMakeFiles/test.dir
+/home/shiv/drone_ws/build/x500_frame_fpv_drone/CMakeFiles/edit_cache.dir
+/home/shiv/drone_ws/build/x500_frame_fpv_drone/CMakeFiles/rebuild_cache.dir
+/home/shiv/drone_ws/build/x500_frame_fpv_drone/CMakeFiles/list_install_components.dir
+/home/shiv/drone_ws/build/x500_frame_fpv_drone/CMakeFiles/install.dir
+/home/shiv/drone_ws/build/x500_frame_fpv_drone/CMakeFiles/install/local.dir
+/home/shiv/drone_ws/build/x500_frame_fpv_drone/CMakeFiles/install/strip.dir
