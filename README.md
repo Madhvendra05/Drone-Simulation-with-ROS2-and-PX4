@@ -2,7 +2,10 @@
 This repository contains a simulation setup for an autonomous multirotor drone using ROS 2, PX4 Autopilot, and Gazebo/Ignition.
 
 
-first clone this repo into your workspace then run the command
+first clone this repo into your workspace then clone the px4_msgs by using the command 
+git clone https://github.com/PX4/px4_msgs.git -b release/1.15
+
+build your workspace run the command
 
 ros2 launch px4_bringup x500.launch.py
 
