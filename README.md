@@ -17,6 +17,8 @@ then run the launch file of sensor_combined_listener.launch.py using the command
 
 ros2 launch px4_ros_com sensor_combined_listener.launch.py
 
+to check the connection between the px4 and ros2
+
 then launch the keyteleop launch file by the command 
 
 ros2 launch px4_offboard keyboard_teleop.launch.py
