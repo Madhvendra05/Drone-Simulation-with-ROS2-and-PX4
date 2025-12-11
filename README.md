@@ -5,9 +5,17 @@ This repository contains a simulation setup for an autonomous multirotor drone u
 first clone this repo into your workspace then clone the px4_msgs by using the command 
 git clone https://github.com/PX4/px4_msgs.git -b release/1.15
 
+and run the command
+
+git clone https://github.com/PX4/px4_ros_com.git in your directory
+
 build your workspace run the command
 
 ros2 launch px4_bringup x500.launch.py
+
+then run the launch file of sensor_combined_listener.launch.py using the command 
+
+ros2 launch px4_ros_com sensor_combined_listener.launch.py
 
 then launch the keyteleop launch file by the command 
 
